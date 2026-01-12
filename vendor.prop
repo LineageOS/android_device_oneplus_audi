@@ -1,5 +1,8 @@
 # Bluetooth
 bluetooth.device.default_name=OnePlus Ace 3V
 
+# Graphics
+debug.sf.auto_latch_unsignaled=1
+
 # USB
 vendor.usb.product_string=OnePlus Ace 3V
