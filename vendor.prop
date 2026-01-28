@@ -3,6 +3,7 @@ bluetooth.device.default_name=OnePlus Ace 3V
 
 # Graphics
 debug.sf.auto_latch_unsignaled=1
+ro.surface_flinger.game_default_frame_rate_override=120
 
 # USB
 vendor.usb.product_string=OnePlus Ace 3V
